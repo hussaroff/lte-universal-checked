@@ -1,8 +1,9 @@
-<h1 align="center">СКОРО РЕЗУЛЬТАТЫ (checked.txt и другие) БУДУТ ЗАШИФРОВАНЫ</h1>
-<h1 align="center">БЕЛЫЕ СПИСКИ БУДУТ ДОСТУПНЫ ТОЛЬКО В ПРИЛОЖЕНИИ TUNNEL</h1>
-<h1 align="center">ПОЧЕМУ?</h1>
-<h1 align="center">ПОТОМУ ЧТО ХВАТИТ ИСПОЛЬЗОВАТЬ HAPP, V2RAY И ПРОЧИЕ</h1>
-<h1 align="center">В TUNNEL ВСЕ НЕ НУЖНО ПОКУПАТЬ ПОДПИСКИ В ТЕЛЕГРАМ ИЛИ ИСКАТЬ В ИНТЕРНЕТЕ, ВСЕ УЖЕ ТАМ</h1>
+<h1 align="center">СКОРО РЕЗУЛЬТАТЫ (checked.txt и другие) БУДУТ ЗАШИФРОВАНЫ<br>
+БЕЛЫЕ СПИСКИ БУДУТ ДОСТУПНЫ ТОЛЬКО В ПРИЛОЖЕНИИ TUNNEL<br>
+ПОЧЕМУ?<br>
+ПОТОМУ ЧТО ХВАТИТ ИСПОЛЬЗОВАТЬ HAPP, V2RAY И ПРОЧИЕ<br>
+В TUNNEL НЕ НУЖНО ПОКУПАТЬ ПОДПИСКИ В ТЕЛЕГРАМ ИЛИ ИСКАТЬ В ИНТЕРНЕТЕ, ВСЕ УЖЕ ТАМ<br>
+ВСЕГО 79 РУБЛЕЙ В МЕСЯЦ</h1>
 
 <p align="center">
   <img src="https://github.com/hussaroff/tunnel/blob/main/assets/icon.png" alt="Tunnel icon" width="140" />
