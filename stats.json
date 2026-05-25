@@ -1,255 +1,255 @@
 {
-  "generated_at": "2026-05-25T01:00:26+00:00",
+  "generated_at": "2026-05-25T05:51:57+00:00",
   "sources_count": 41,
-  "raw_vless_count": 191632,
-  "valid_whitelist_unique_count": 8003,
-  "skipped_not_whitelist": 56945,
-  "checked_ok_current": 257,
-  "failed_current": 7746,
+  "raw_vless_count": 196175,
+  "valid_whitelist_unique_count": 8782,
+  "skipped_not_whitelist": 57614,
+  "checked_ok_current": 506,
+  "failed_current": 8276,
   "test_url": "https://www.gstatic.com/generate_204",
   "attempts": 1,
   "require_successes": 1,
   "workers": 2,
   "top_ok": [
     {
-      "host": "84.201.168.186",
-      "port": 443,
-      "avg_ms": 112.48,
+      "host": "5.188.156.138",
+      "port": 4443,
+      "avg_ms": 88.35,
       "network": "tcp",
-      "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #331"
+      "security": "none",
+      "remark": "🇷🇺 Russia [*CIDR]"
     },
     {
-      "host": "158.160.130.173",
+      "host": "84.201.168.220",
       "port": 443,
-      "avg_ms": 124.94,
+      "avg_ms": 113.46,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #332"
+      "remark": "🇳🇱 The Netherlands — #765"
+    },
+    {
+      "host": "51.250.47.193",
+      "port": 443,
+      "avg_ms": 113.63,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "🇩🇪 Germany — #289"
+    },
+    {
+      "host": "84.201.144.113",
+      "port": 443,
+      "avg_ms": 114.12,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR] YA"
+    },
+    {
+      "host": "84.201.168.186",
+      "port": 443,
+      "avg_ms": 115.75,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR] YA"
+    },
+    {
+      "host": "51.250.47.193",
+      "port": 443,
+      "avg_ms": 118.77,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "🇩🇪 Germany — #286"
+    },
+    {
+      "host": "46.182.24.123",
+      "port": 443,
+      "avg_ms": 120.55,
+      "network": "grpc",
+      "security": "reality",
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR]"
     },
     {
       "host": "158.160.136.203",
       "port": 443,
-      "avg_ms": 130.61,
+      "avg_ms": 120.63,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #334"
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR] YA"
     },
     {
       "host": "158.160.51.70",
       "port": 443,
-      "avg_ms": 136.66,
+      "avg_ms": 121.4,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #333"
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR] YA"
+    },
+    {
+      "host": "84.201.173.163",
+      "port": 443,
+      "avg_ms": 122.18,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "🇩🇪 Germany — #294"
     },
     {
       "host": "158.160.57.73",
       "port": 443,
-      "avg_ms": 136.68,
+      "avg_ms": 122.21,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #339"
+      "remark": "🇳🇱 The Netherlands — #755"
     },
     {
-      "host": "185.242.247.206",
-      "port": 8443,
-      "avg_ms": 140.03,
+      "host": "158.160.130.173",
+      "port": 443,
+      "avg_ms": 122.74,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇫🇮 Finland [*CIDR]"
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR] YA"
+    },
+    {
+      "host": "158.160.246.28",
+      "port": 443,
+      "avg_ms": 123.27,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "🇷🇺 Russia [*CIDR] YA"
+    },
+    {
+      "host": "158.160.51.70",
+      "port": 443,
+      "avg_ms": 123.66,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR] YA"
+    },
+    {
+      "host": "84.201.168.201",
+      "port": 443,
+      "avg_ms": 124.39,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "🇩🇪 Germany — #285"
+    },
+    {
+      "host": "51.250.47.193",
+      "port": 443,
+      "avg_ms": 125.36,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "🇩🇪 Germany — #212"
+    },
+    {
+      "host": "84.201.168.201",
+      "port": 443,
+      "avg_ms": 126.17,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "🇩🇪 Germany — #283"
+    },
+    {
+      "host": "84.201.129.65",
+      "port": 443,
+      "avg_ms": 128.33,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "🇩🇪 Germany — #265"
+    },
+    {
+      "host": "84.201.144.113",
+      "port": 443,
+      "avg_ms": 128.47,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR] YA"
     },
     {
       "host": "51.250.102.69",
       "port": 443,
-      "avg_ms": 142.83,
+      "avg_ms": 128.99,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #336"
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR] YA"
     },
     {
-      "host": "84.201.168.220",
+      "host": "84.201.168.186",
       "port": 443,
-      "avg_ms": 145.71,
+      "avg_ms": 129.49,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #338"
-    },
-    {
-      "host": "51.250.24.232",
-      "port": 443,
-      "avg_ms": 146.88,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #341"
-    },
-    {
-      "host": "51.250.106.87",
-      "port": 443,
-      "avg_ms": 147.06,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #500"
-    },
-    {
-      "host": "217.16.27.133",
-      "port": 5443,
-      "avg_ms": 147.5,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "🇷🇺 Delta — #39"
-    },
-    {
-      "host": "84.201.129.56",
-      "port": 443,
-      "avg_ms": 153.95,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "🇷🇺 Yandex — #13"
-    },
-    {
-      "host": "51.250.24.222",
-      "port": 443,
-      "avg_ms": 155.22,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #340"
-    },
-    {
-      "host": "84.201.129.56",
-      "port": 443,
-      "avg_ms": 159.98,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "🇷🇺 Yandex — #25"
-    },
-    {
-      "host": "84.201.130.199",
-      "port": 443,
-      "avg_ms": 167.26,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "🇷🇺 Russia | 🌐 [*CIDR] YA"
-    },
-    {
-      "host": "84.201.130.199",
-      "port": 443,
-      "avg_ms": 168.96,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "3018"
+      "remark": "🇳🇱 The Netherlands — #756"
     },
     {
       "host": "51.250.17.80",
       "port": 443,
-      "avg_ms": 169.26,
+      "avg_ms": 130.95,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #335"
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR] YA"
     },
     {
       "host": "84.201.168.220",
       "port": 443,
-      "avg_ms": 169.48,
+      "avg_ms": 132.08,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #491"
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR] YA"
     },
     {
-      "host": "185.242.247.206",
-      "port": 8443,
-      "avg_ms": 170.34,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "1234"
-    },
-    {
-      "host": "185.242.247.206",
-      "port": 8443,
-      "avg_ms": 173.79,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "1248"
-    },
-    {
-      "host": "84.201.139.67",
+      "host": "84.201.144.113",
       "port": 443,
-      "avg_ms": 175.01,
+      "avg_ms": 133.13,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇷🇺 Yandex — #16"
+      "remark": "🇳🇱 The Netherlands — #759"
     },
     {
-      "host": "84.201.139.67",
+      "host": "51.250.70.186",
       "port": 443,
-      "avg_ms": 177.01,
+      "avg_ms": 133.28,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇷🇺 Russia | 🌐 [*CIDR] YA"
+      "remark": "🇩🇪 Germany — #259"
     },
     {
-      "host": "84.201.130.199",
+      "host": "158.160.136.203",
       "port": 443,
-      "avg_ms": 177.27,
+      "avg_ms": 133.51,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇷🇺 Yandex — #24"
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR] YA"
     },
     {
-      "host": "84.201.130.199",
+      "host": "158.160.130.173",
       "port": 443,
-      "avg_ms": 177.67,
+      "avg_ms": 133.7,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇷🇺 Russia | 🌐 [*CIDR] YA"
+      "remark": "🇳🇱 The Netherlands — #763"
     },
     {
-      "host": "185.242.247.206",
-      "port": 8443,
-      "avg_ms": 178.05,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "4Nika-9753"
-    },
-    {
-      "host": "185.216.71.204",
+      "host": "158.160.130.173",
       "port": 443,
-      "avg_ms": 180.63,
+      "avg_ms": 135.28,
       "network": "tcp",
       "security": "reality",
-      "remark": "0238"
+      "remark": "🇳🇱 The Netherlands | 🌐 [*CIDR] YA"
     },
     {
-      "host": "84.201.139.67",
+      "host": "84.201.172.166",
       "port": 443,
-      "avg_ms": 181.07,
+      "avg_ms": 135.91,
       "network": "tcp",
       "security": "reality",
-      "remark": "🇷🇺 Yandex — #23"
+      "remark": "🇩🇪 Germany — #292"
     },
     {
-      "host": "51.250.24.222",
+      "host": "84.201.186.39",
       "port": 443,
-      "avg_ms": 181.77,
-      "network": "tcp",
+      "avg_ms": 137.79,
+      "network": "xhttp",
       "security": "reality",
-      "remark": "🇳🇱 The Netherlands — #495"
-    },
-    {
-      "host": "62.141.42.201",
-      "port": 443,
-      "avg_ms": 185.37,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "0052"
-    },
-    {
-      "host": "84.201.146.196",
-      "port": 5443,
-      "avg_ms": 187.09,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "🇷🇺 Delta — #38"
+      "remark": "🇷🇺 Cloudflare — #43"
     }
   ],
   "sources": [
@@ -259,7 +259,7 @@
         "https://translate.yandex.ru/translate?url=https://etoneya.su/whitelist&lang=en-ru",
         "https://etoneya.su/whitelist"
       ],
-      "found_raw": 662,
+      "found_raw": 370,
       "errors": []
     },
     {
@@ -268,7 +268,7 @@
         "https://translate.yandex.ru/translate?url=https://etoneya.su/1&lang=en-ru",
         "https://etoneya.su/1"
       ],
-      "found_raw": 2704,
+      "found_raw": 2082,
       "errors": []
     },
     {
@@ -300,7 +300,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
       ],
-      "found_raw": 204,
+      "found_raw": 215,
       "errors": []
     },
     {
@@ -308,7 +308,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt"
       ],
-      "found_raw": 196,
+      "found_raw": 260,
       "errors": []
     },
     {
@@ -316,7 +316,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt"
       ],
-      "found_raw": 544,
+      "found_raw": 936,
       "errors": []
     },
     {
@@ -324,7 +324,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt"
       ],
-      "found_raw": 66,
+      "found_raw": 250,
       "errors": []
     },
     {
@@ -332,7 +332,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt"
       ],
-      "found_raw": 78,
+      "found_raw": 70,
       "errors": []
     },
     {
@@ -340,7 +340,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt"
       ],
-      "found_raw": 1175,
+      "found_raw": 1741,
       "errors": []
     },
     {
@@ -348,7 +348,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt"
       ],
-      "found_raw": 2811,
+      "found_raw": 2898,
       "errors": []
     },
     {
@@ -482,7 +482,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/EtoNeYa/EtoNeYa_wl.txt"
       ],
-      "found_raw": 331,
+      "found_raw": 185,
       "errors": []
     },
     {
@@ -490,7 +490,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/Igareck/WL-CIDR-RU-Checked.txt"
       ],
-      "found_raw": 66,
+      "found_raw": 96,
       "errors": []
     },
     {
@@ -498,7 +498,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/Igareck/WL-RU-Mobile.txt"
       ],
-      "found_raw": 204,
+      "found_raw": 0,
       "errors": []
     },
     {
@@ -506,7 +506,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/KvRuVPN/KvRuVPN.txt"
       ],
-      "found_raw": 118,
+      "found_raw": 365,
       "errors": []
     },
     {
@@ -546,7 +546,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/RosTun/Base64_gen.txt"
       ],
-      "found_raw": 112,
+      "found_raw": 299,
       "errors": []
     },
     {
@@ -554,7 +554,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/RosTun/utf-8_gen.txt"
       ],
-      "found_raw": 112,
+      "found_raw": 299,
       "errors": []
     },
     {
@@ -570,7 +570,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/Zieng2/Zieng2_vless_lite.txt"
       ],
-      "found_raw": 1206,
+      "found_raw": 1478,
       "errors": []
     },
     {
@@ -630,7 +630,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/wl.txt"
       ],
-      "found_raw": 3443,
+      "found_raw": 3652,
       "errors": []
     },
     {
@@ -646,7 +646,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/merged.txt"
       ],
-      "found_raw": 13074,
+      "found_raw": 13279,
       "errors": []
     },
     {
@@ -654,7 +654,7 @@
       "expanded": [
         "https://s3c3.001.gpucloud.ru/wlr/merged.txt"
       ],
-      "found_raw": 13074,
+      "found_raw": 13279,
       "errors": []
     },
     {
@@ -662,7 +662,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/lm705/vair/main/vless_alive.txt"
       ],
-      "found_raw": 284,
+      "found_raw": 636,
       "errors": []
     },
     {
@@ -670,7 +670,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/main/githubmirror/clean/vless.txt"
       ],
-      "found_raw": 17997,
+      "found_raw": 18060,
       "errors": []
     },
     {
@@ -696,7 +696,7 @@
       "expanded": [
         "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt"
       ],
-      "found_raw": 272,
+      "found_raw": 940,
       "errors": []
     },
     {
@@ -704,7 +704,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/FLAT447/v2ray-lists/main/githubmirror/26.txt"
       ],
-      "found_raw": 1581,
+      "found_raw": 1794,
       "errors": []
     }
   ]
