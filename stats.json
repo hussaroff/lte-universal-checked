@@ -1,255 +1,255 @@
 {
-  "generated_at": "2026-05-26T17:14:48+00:00",
+  "generated_at": "2026-05-26T23:57:37+00:00",
   "sources_count": 41,
-  "raw_vless_count": 191986,
-  "valid_whitelist_unique_count": 7994,
-  "skipped_not_whitelist": 57338,
-  "checked_ok_current": 122,
-  "failed_current": 7872,
+  "raw_vless_count": 191882,
+  "valid_whitelist_unique_count": 8049,
+  "skipped_not_whitelist": 57565,
+  "checked_ok_current": 88,
+  "failed_current": 7961,
   "test_url": "https://www.gstatic.com/generate_204",
   "attempts": 1,
   "require_successes": 1,
   "workers": 2,
   "top_ok": [
     {
-      "host": "5.188.156.138",
-      "port": 4443,
-      "avg_ms": 103.52,
-      "network": "tcp",
-      "security": "none",
-      "remark": "0403"
-    },
-    {
       "host": "ru3.alexanderoff.ru",
       "port": 4443,
-      "avg_ms": 123.77,
+      "avg_ms": 123.26,
       "network": "tcp",
       "security": "none",
-      "remark": "1406"
+      "remark": "1653. 🇷🇺 VLESS | SNI: ru3.alexanderoff.ru | TG: @wlrustg"
     },
     {
-      "host": "5.188.156.138",
-      "port": 4443,
-      "avg_ms": 127.38,
-      "network": "tcp",
-      "security": "none",
-      "remark": "🇷🇺 Selectel — #10"
-    },
-    {
-      "host": "ru3.alexanderoff.ru",
-      "port": 4443,
-      "avg_ms": 136.82,
-      "network": "tcp",
-      "security": "none",
-      "remark": "4Mohsen-10251"
-    },
-    {
-      "host": "62.141.42.201",
+      "host": "213.241.198.138",
       "port": 443,
-      "avg_ms": 188.79,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "0889"
+      "avg_ms": 206.77,
+      "network": "ws",
+      "security": "tls",
+      "remark": "🇺🇳 @MrMeshkyChannel 937649"
     },
     {
-      "host": "62.141.42.201",
+      "host": "185.238.228.138",
+      "port": 2096,
+      "avg_ms": 213.52,
+      "network": "ws",
+      "security": "tls",
+      "remark": "@Vip_Security"
+    },
+    {
+      "host": "185.238.228.138",
       "port": 443,
-      "avg_ms": 190.86,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "0680"
-    },
-    {
-      "host": "62.141.42.201",
-      "port": 443,
-      "avg_ms": 191.11,
-      "network": "raw",
-      "security": "reality",
-      "remark": "1204"
-    },
-    {
-      "host": "62.141.42.201",
-      "port": 443,
-      "avg_ms": 193.59,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "4Mohsen-9933"
-    },
-    {
-      "host": "62.141.42.201",
-      "port": 443,
-      "avg_ms": 203.51,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "سرور"
-    },
-    {
-      "host": "62.141.42.201",
-      "port": 443,
-      "avg_ms": 204.68,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "0070"
-    },
-    {
-      "host": "178.250.243.230",
-      "port": 9823,
-      "avg_ms": 223.86,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "1457"
-    },
-    {
-      "host": "88.210.9.69",
-      "port": 443,
-      "avg_ms": 233.14,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "0157"
-    },
-    {
-      "host": "79.141.171.133",
-      "port": 443,
-      "avg_ms": 238.42,
-      "network": "raw",
-      "security": "reality",
-      "remark": "1686"
-    },
-    {
-      "host": "79.141.171.133",
-      "port": 443,
-      "avg_ms": 240.09,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "79.141.171.133:443"
+      "avg_ms": 227.96,
+      "network": "ws",
+      "security": "tls",
+      "remark": "🇺🇳 @MrMeshkyChannel 671066"
     },
     {
       "host": "185.238.228.238",
       "port": 2096,
-      "avg_ms": 245.8,
+      "avg_ms": 246.81,
       "network": "ws",
       "security": "tls",
-      "remark": "👉🆔@v2ray_configs_pool📡🇬🇧®️United"
+      "remark": "2902. 🇸🇮 VLESS | SNI: sni.jpmj.dev | TG: @wlrustg"
     },
     {
       "host": "79.141.171.133",
       "port": 443,
-      "avg_ms": 246.65,
+      "avg_ms": 260.35,
       "network": "tcp",
       "security": "reality",
       "remark": "[OpenRay] 🇬🇧 GB-672"
     },
     {
-      "host": "185.238.228.238",
-      "port": 2096,
-      "avg_ms": 247.0,
-      "network": "ws",
-      "security": "tls",
-      "remark": "🛡"
-    },
-    {
-      "host": "94.247.142.238",
-      "port": 2096,
-      "avg_ms": 247.0,
-      "network": "ws",
-      "security": "tls",
-      "remark": "94.247.142.238:2096"
-    },
-    {
-      "host": "79.141.171.133",
+      "host": "62.141.42.201",
       "port": 443,
-      "avg_ms": 247.87,
+      "avg_ms": 276.46,
       "network": "tcp",
       "security": "reality",
-      "remark": "0860"
+      "remark": "62.141.42.201:443"
+    },
+    {
+      "host": "217.28.49.84",
+      "port": 8443,
+      "avg_ms": 291.64,
+      "network": "ws",
+      "security": "tls",
+      "remark": "[OpenRay] 🇱🇻 LV-687"
+    },
+    {
+      "host": "88.216.66.238",
+      "port": 2096,
+      "avg_ms": 292.12,
+      "network": "ws",
+      "security": "tls",
+      "remark": "4Sarina-7939"
+    },
+    {
+      "host": "185.238.228.238",
+      "port": 2096,
+      "avg_ms": 320.83,
+      "network": "ws",
+      "security": "tls",
+      "remark": "185.238.228.238:2096"
+    },
+    {
+      "host": "185.246.152.159",
+      "port": 443,
+      "avg_ms": 333.45,
+      "network": "ws",
+      "security": "tls",
+      "remark": "2904. 🇱🇺 VLESS | SNI: sni.111000.v6.navy | TG: @wlrustg"
     },
     {
       "host": "79.141.171.133",
       "port": 443,
-      "avg_ms": 255.93,
+      "avg_ms": 367.26,
       "network": "tcp",
       "security": "reality",
       "remark": "79.141.171.133:443"
     },
     {
-      "host": "79.141.171.133",
+      "host": "5.101.101.166",
       "port": 443,
-      "avg_ms": 258.62,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "1504"
-    },
-    {
-      "host": "185.238.228.138",
-      "port": 2096,
-      "avg_ms": 264.56,
+      "avg_ms": 394.63,
       "network": "ws",
       "security": "tls",
-      "remark": "2901. 🇫🇮 VLESS | SNI: sni.111000.indevs.in | TG: @wlrustg"
+      "remark": "[OpenRay"
+    },
+    {
+      "host": "194.164.32.99",
+      "port": 2053,
+      "avg_ms": 395.11,
+      "network": "ws",
+      "security": "tls",
+      "remark": "[OpenRay"
+    },
+    {
+      "host": "217.60.252.85",
+      "port": 2053,
+      "avg_ms": 399.67,
+      "network": "ws",
+      "security": "tls",
+      "remark": "@Vip_Security"
+    },
+    {
+      "host": "194.76.173.6",
+      "port": 2053,
+      "avg_ms": 406.04,
+      "network": "ws",
+      "security": "tls",
+      "remark": "[OpenRay"
+    },
+    {
+      "host": "185.244.40.33",
+      "port": 443,
+      "avg_ms": 422.71,
+      "network": "ws",
+      "security": "tls",
+      "remark": "5709. VLESS | SNI: sni.latonyamadeline.ndjp.net | TG: @wlrustg"
+    },
+    {
+      "host": "217.60.252.85",
+      "port": 2053,
+      "avg_ms": 428.66,
+      "network": "ws",
+      "security": "tls",
+      "remark": "@Vip_Security"
+    },
+    {
+      "host": "217.60.252.85",
+      "port": 2053,
+      "avg_ms": 448.18,
+      "network": "ws",
+      "security": "tls",
+      "remark": "[OpenRay] 🇫🇷 FR-2077"
+    },
+    {
+      "host": "178.22.31.178",
+      "port": 8443,
+      "avg_ms": 458.8,
+      "network": "tcp",
+      "security": "reality",
+      "remark": "[OpenRay] 🇦🇹 AT-231"
+    },
+    {
+      "host": "185.31.200.81",
+      "port": 443,
+      "avg_ms": 462.55,
+      "network": "ws",
+      "security": "tls",
+      "remark": "[OpenRay] 🇳🇱 NL-7184"
+    },
+    {
+      "host": "217.60.252.85",
+      "port": 2053,
+      "avg_ms": 467.49,
+      "network": "ws",
+      "security": "tls",
+      "remark": "[OpenRay"
+    },
+    {
+      "host": "217.194.148.124",
+      "port": 8443,
+      "avg_ms": 477.31,
+      "network": "ws",
+      "security": "tls",
+      "remark": "[OpenRay"
+    },
+    {
+      "host": "185.31.200.81",
+      "port": 443,
+      "avg_ms": 477.72,
+      "network": "ws",
+      "security": "tls",
+      "remark": "[OpenRay"
     },
     {
       "host": "79.141.171.133",
       "port": 443,
-      "avg_ms": 266.29,
+      "avg_ms": 482.28,
       "network": "tcp",
       "security": "reality",
-      "remark": "2189. VLESS | SNI: apple.com | TG: @wlrustg"
-    },
-    {
-      "host": "158.160.255.35",
-      "port": 443,
-      "avg_ms": 266.58,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "🇳🇱 The Netherlands [*CIDR] YA"
+      "remark": "79.141.171.133:443"
     },
     {
       "host": "185.238.228.238",
       "port": 2096,
-      "avg_ms": 270.53,
+      "avg_ms": 528.29,
       "network": "ws",
       "security": "tls",
-      "remark": "4261. VLESS | SNI: sni.jpmj.dev | TG: @wlrustg"
+      "remark": "185.238.228.238:2096"
     },
     {
-      "host": "79.141.171.133",
+      "host": "88.218.78.167",
       "port": 443,
-      "avg_ms": 270.72,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "0041"
+      "avg_ms": 563.31,
+      "network": "ws",
+      "security": "tls",
+      "remark": "[OpenRay] 🇫🇷 FR-633"
     },
     {
-      "host": "79.141.171.133",
+      "host": "185.238.228.138",
+      "port": 2096,
+      "avg_ms": 569.44,
+      "network": "ws",
+      "security": "tls",
+      "remark": "🇪🇸ES(AzadNet.t.me)"
+    },
+    {
+      "host": "194.156.101.115",
       "port": 443,
-      "avg_ms": 274.37,
-      "network": "tcp",
+      "avg_ms": 572.66,
+      "network": "grpc",
       "security": "reality",
-      "remark": "0911"
+      "remark": "2160"
     },
     {
-      "host": "158.160.255.35",
-      "port": 443,
-      "avg_ms": 278.4,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "🇳🇱 The Netherlands [*CIDR] YA"
-    },
-    {
-      "host": "79.141.171.133",
-      "port": 443,
-      "avg_ms": 282.4,
-      "network": "raw",
-      "security": "reality",
-      "remark": "1254"
-    },
-    {
-      "host": "194.76.155.12",
-      "port": 8443,
-      "avg_ms": 283.59,
-      "network": "tcp",
-      "security": "reality",
-      "remark": "TCP"
+      "host": "194.76.173.6",
+      "port": 2053,
+      "avg_ms": 581.27,
+      "network": "ws",
+      "security": "tls",
+      "remark": "[OpenRay] 🇩🇪 DE-9012"
     }
   ],
   "sources": [
@@ -259,7 +259,7 @@
         "https://translate.yandex.ru/translate?url=https://etoneya.su/whitelist&lang=en-ru",
         "https://etoneya.su/whitelist"
       ],
-      "found_raw": 898,
+      "found_raw": 962,
       "errors": []
     },
     {
@@ -268,7 +268,7 @@
         "https://translate.yandex.ru/translate?url=https://etoneya.su/1&lang=en-ru",
         "https://etoneya.su/1"
       ],
-      "found_raw": 3282,
+      "found_raw": 3410,
       "errors": []
     },
     {
@@ -300,7 +300,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
       ],
-      "found_raw": 72,
+      "found_raw": 42,
       "errors": []
     },
     {
@@ -316,7 +316,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt"
       ],
-      "found_raw": 72,
+      "found_raw": 42,
       "errors": []
     },
     {
@@ -324,7 +324,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt"
       ],
-      "found_raw": 30,
+      "found_raw": 36,
       "errors": []
     },
     {
@@ -332,7 +332,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt"
       ],
-      "found_raw": 12,
+      "found_raw": 14,
       "errors": []
     },
     {
@@ -340,7 +340,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt"
       ],
-      "found_raw": 90,
+      "found_raw": 648,
       "errors": []
     },
     {
@@ -348,7 +348,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt"
       ],
-      "found_raw": 2821,
+      "found_raw": 2682,
       "errors": []
     },
     {
@@ -490,7 +490,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/Igareck/WL-CIDR-RU-Checked.txt"
       ],
-      "found_raw": 30,
+      "found_raw": 36,
       "errors": []
     },
     {
@@ -498,7 +498,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/Igareck/WL-RU-Mobile.txt"
       ],
-      "found_raw": 72,
+      "found_raw": 42,
       "errors": []
     },
     {
@@ -570,7 +570,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/Zieng2/Zieng2_vless_lite.txt"
       ],
-      "found_raw": 827,
+      "found_raw": 845,
       "errors": []
     },
     {
@@ -630,7 +630,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/wl.txt"
       ],
-      "found_raw": 3277,
+      "found_raw": 2970,
       "errors": []
     },
     {
@@ -646,7 +646,7 @@
       "expanded": [
         "https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/merged.txt"
       ],
-      "found_raw": 12427,
+      "found_raw": 11820,
       "errors": []
     },
     {
@@ -654,15 +654,17 @@
       "expanded": [
         "https://s3c3.001.gpucloud.ru/wlr/merged.txt"
       ],
-      "found_raw": 12427,
-      "errors": []
+      "found_raw": 0,
+      "errors": [
+        "https://s3c3.001.gpucloud.ru/wlr/merged.txt: HTTPSConnectionPool(host='s3c3.001.gpucloud.ru', port=443): Read timed out."
+      ]
     },
     {
       "url": "https://raw.githubusercontent.com/lm705/vair/main/vless_alive.txt",
       "expanded": [
         "https://raw.githubusercontent.com/lm705/vair/main/vless_alive.txt"
       ],
-      "found_raw": 38,
+      "found_raw": 22,
       "errors": []
     },
     {
@@ -670,7 +672,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/main/githubmirror/clean/vless.txt"
       ],
-      "found_raw": 18447,
+      "found_raw": 18069,
       "errors": []
     },
     {
@@ -696,7 +698,7 @@
       "expanded": [
         "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/23.txt"
       ],
-      "found_raw": 190,
+      "found_raw": 142,
       "errors": []
     },
     {
@@ -704,7 +706,7 @@
       "expanded": [
         "https://raw.githubusercontent.com/FLAT447/v2ray-lists/main/githubmirror/26.txt"
       ],
-      "found_raw": 1399,
+      "found_raw": 1436,
       "errors": []
     }
   ]
