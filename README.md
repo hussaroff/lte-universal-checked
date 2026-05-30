@@ -31,7 +31,7 @@
 Не просто список VLESS-конфигураций.  
 Это автоматически обновляемый whitelist-oriented пул серверов для Tunnel, предварительно проверенный real-delay методом.
 
-VLESS · Xray · LTE whitelist · real-delay check · auto-update · Tunnel-ready subscription
+VLESS · Xray · LTE whitelist · real-delay check · auto-update · Tunnel-ready subscription · 50+ sources
 
 ![status](https://img.shields.io/badge/status-active-brightgreen)
 ![type](https://img.shields.io/badge/type-VLESS%20subscription-blue)
