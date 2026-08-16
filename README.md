@@ -1,3 +1,4 @@
+<h1 align="center">Проект LTE universal checked временно заморожен.</h1>
 <h1 align="center">Почему мы?</h1>
 
 <p align="center">
