@@ -99,13 +99,13 @@ https://github.com/hussaroff/tunnel
 Файл подписки:
 
 ```text
-checked.txt
+whitelist.txt
 ```
 
 Raw-ссылка:
 
 ```text
-https://raw.githubusercontent.com/hussaroff/lte-universal-checked/main/checked.txt
+https://raw.githubusercontent.com/hussaroff/lte-universal-checked/main/whitelist.txt
 ```
 
 Эту ссылку можно добавить в Tunnel как источник VLESS-конфигураций.
