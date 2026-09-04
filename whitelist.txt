@@ -5,7 +5,7 @@
 # SPECIAL FOR TUNNEL APP!
 # https://github.com/hussaroff/tunnel
 #
-# UPLOADED: 2026-09-04 15:52:42 UTC
+# UPLOADED: 2026-09-04 15:59:04 UTC
 # STATS: 2 NODES / 62 SOURCES
 vless://3a0035a0-6893-4bd1-acdf-99bb037eb76a@84.201.170.9:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#%40getmyvpn
 trojan://humanity@185.75.243.102:443?fp=android&path=%2Fassignment&security=tls&sni=www.ignitelimit.com&type=ws#%40getmyvpn
