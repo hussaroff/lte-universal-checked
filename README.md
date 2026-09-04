@@ -36,7 +36,7 @@ VLESS · Xray · LTE whitelist · real-delay check · auto-update · Tunnel-read
 ![type](https://img.shields.io/badge/type-VLESS%20subscription-blue)
 ![client](https://img.shields.io/badge/recommended%20client-Tunnel-00bcd4)
 ![update](https://img.shields.io/badge/update-automatic-orange)
-![format](https://img.shields.io/badge/format-checked.txt-lightgrey)
+![format](https://img.shields.io/badge/format-whitelist.txt-lightgrey)
 
 <hr>
 </div>
