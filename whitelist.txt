@@ -5,22 +5,15 @@
 # SPECIAL FOR TUNNEL APP!
 # https://github.com/hussaroff/tunnel
 #
-# UPLOADED: 2026-10-06 05:24:28 UTC
-# STATS: 17 NODES / 62 SOURCES
+# UPLOADED: 2026-10-06 08:55:57 UTC
+# STATS: 10 NODES / 62 SOURCES
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?encryption=none&extra=null&fp=safari&host=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&security=reality&sni=max.ru&type=xhttp#%40getmyvpn
 vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&security=reality&sid=377645738e782155&sni=id.x5.ru&type=raw#%40getmyvpn
-vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&security=reality&sid=377645738e782155&sni=id.x5.ru&type=raw#%40getmyvpn
-vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&sid=377645738e782155&sni=id.x5.ru#%40getmyvpn
-vless://8f2d14ac-447d-4d58-bd37-5cac936d96ca@31.129.42.23:30052?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&sid=54861d36&sni=storage.yandexcloud.net#%40getmyvpn
-vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=random&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&sid=377645738e782155&sni=id.x5.ru#%40getmyvpn
-vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&sid=377645738e782155&sni=id.x5.ru#%40getmyvpn
-vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&sid=377645738e782155&sni=id.x5.ru#%40getmyvpn
-vless://0d6e70a5-abfd-4766-8ad4-e502173ba82b@185.251.89.162:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=cqGQoKHFNHp2cnfvnGKrsOcONJFfE7H5tMo6ivGNcQA&sid=05&sni=kinopoisk.ru#%40getmyvpn
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&sid=8fbdc8d37cc76852&sni=zsat.eu-cdn294.com#%40getmyvpn
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@109.248.247.44:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=HXFe_cPryw01zqXchAFjZciDAS4UJg1-xScx6vjgjjY&sid=7f2e9c4b1a8d6e25&sni=kzself.yandex-api.com#%40getmyvpn
-vless://1b7ee703-fa08-4305-8469-ae3e30e61e44@109.248.247.44:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HXFe_cPryw01zqXchAFjZciDAS4UJg1-xScx6vjgjjY&sid=7f2e9c4b1a8d6e25&sni=kzself.yandex-api.com#%40getmyvpn
 vless://a47f8110-de83-4c37-b6a7-16010535aef4@195.19.166.71:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=b3gpqoUVf1RKKAVOE20jxNwx72bT3PwgWG-_LO-R0Sc&sid=ee911749edaad12c&sni=viva.keeneticdocs.ru#%40getmyvpn
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&sid=8fbdc8d37cc76852&sni=zsat.eu-cdn294.com#%40getmyvpn
 trojan://UX82473651@185.244.208.69:443?type=tcp&security=tls&fp=firefox&sni=strong-haddock.rooster465.autos#%40getmyvpn
 vless://2b781b4a-5942-48e0-a7f3-5a07b7b488c1@78.159.131.79:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=AhLy7ha7FF2EQfu-3SxOFKUwExyHActYPHtyv82KNCI&sid=15bcc0a77c3cacdf&sni=nl-root.sworkingvpn.com#%40getmyvpn
 trojan://UX82473651@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#%40getmyvpn
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.112.59.210:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=nl2.nztvpn.com&fp=chrome&pbk=MTYXgxLIK9PzmQGAjuCmhI1FikCNlvU66NKgQ5g14Bc&sid=0b135481ea1283fc&allowInsecure=1#%40getmyvpn
+vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443?security=reality&encryption=none&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zsat.eu-cdn294.com&sid=8fbdc8d37cc76852#%40getmyvpn
