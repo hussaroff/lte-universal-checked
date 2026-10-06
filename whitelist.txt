@@ -5,24 +5,21 @@
 # SPECIAL FOR TUNNEL APP!
 # https://github.com/hussaroff/tunnel
 #
-# UPLOADED: 2026-10-06 12:28:57 UTC
-# STATS: 19 NODES / 62 SOURCES
-vless://dfe8ea9e-fd77-48e6-86ee-7bc1019de1e7@185.236.20.142:6443?type=tcp&encryption=none&security=reality&sni=ok.ru&pbk=UJASCPCy2vuNWu3q2C7vVte-HxG0r0XI83pgxBFBv1E&sid=9c56af76&fp=chrome#%40getmyvpn
-vless://dfe8ea9e-fd77-48e6-86ee-7bc1019de1e7@185.236.20.142:6443?type=tcp&encryption=none&security=reality&sni=ok.ru&pbk=UJASCPCy2vuNWu3q2C7vVte-HxG0r0XI83pgxBFBv1E&sid=9c56af76&fp=firefox#%40getmyvpn
+# UPLOADED: 2026-10-06 16:02:00 UTC
+# STATS: 16 NODES / 62 SOURCES
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.146.8:443?encryption=none&extra=null&fp=safari&host=max.ru&pbk=biyXF3Egpu0ul4Jyf04Vh1Zl6u3JGXJ2k5y5y7pDjgo&security=reality&sni=max.ru&type=xhttp#%40getmyvpn
+vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&security=reality&sid=377645738e782155&sni=id.x5.ru&type=raw#%40getmyvpn
 vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&security=reality&sid=377645738e782155&sni=id.x5.ru&type=raw#%40getmyvpn
-vless://8f2d14ac-447d-4d58-bd37-5cac936d96ca@31.129.42.23:30052?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&security=reality&sid=54861d36&sni=storage.yandexcloud.net&type=raw#%40getmyvpn
-vless://8f2d14ac-447d-4d58-bd37-5cac936d96ca@31.129.42.23:30052?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=UR-ELTbCCTAAvg_y8vIznWFkGkCKFFaEAVgTtPYNCCk&security=reality&sid=54861d36&sni=storage.yandexcloud.net&type=raw#%40getmyvpn
-vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?encryption=none&fp=random&mode=gun&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&security=reality&sid=27e53bbcab7593d7&sni=360.yandex.ru&spx=%2F&type=grpc#%40getmyvpn
-vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?encryption=none&fp=safari&mode=gun&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&security=reality&sid=27e53bbcab7593d7&sni=360.yandex.ru&type=grpc#%40getmyvpn
-vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?encryption=none&fp=qq&mode=gun&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&security=reality&sid=27e53bbcab7593d7&sni=360.yandex.ru&type=grpc#%40getmyvpn
-vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&sid=377645738e782155&sni=id.x5.ru#%40getmyvpn
-vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=random&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&sid=377645738e782155&sni=id.x5.ru#%40getmyvpn
+vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&security=reality&sid=377645738e782155&sni=id.x5.ru&type=raw#%40getmyvpn
 vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&sid=377645738e782155&sni=id.x5.ru#%40getmyvpn
+vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&sid=377645738e782155&sni=id.x5.ru#%40getmyvpn
+vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&sid=377645738e782155&sni=id.x5.ru#%40getmyvpn
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&sid=8fbdc8d37cc76852&sni=zsat.eu-cdn294.com#%40getmyvpn
 vless://a47f8110-de83-4c37-b6a7-16010535aef4@195.19.166.71:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=b3gpqoUVf1RKKAVOE20jxNwx72bT3PwgWG-_LO-R0Sc&sid=ee911749edaad12c&sni=viva.keeneticdocs.ru#%40getmyvpn
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&sid=8fbdc8d37cc76852&sni=zsat.eu-cdn294.com#%40getmyvpn
 trojan://UX82473651@185.244.208.69:443?type=tcp&security=tls&fp=firefox&sni=strong-haddock.rooster465.autos#%40getmyvpn
-trojan://UX82473651@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#%40getmyvpn
-vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=377645738e782155#%40getmyvpn
+vless://579b72a5-785a-4fb6-ac64-1de2f8c49601@net1.trufflevpn.fun:443?type=grpc&security=reality&fp=firefox&pbk=LAIeXhB_Q_APveaVNJDD4svH4esgDVx3qeo-MSfu1Wg&sni=samsung.com.com&serviceName=vless-grpc#%40getmyvpn
+vless://579b72a5-785a-4fb6-ac64-1de2f8c49601@185.112.59.107:443?type=grpc&security=reality&fp=firefox&pbk=LAIeXhB_Q_APveaVNJDD4svH4esgDVx3qeo-MSfu1Wg&sni=samsung.com.com&serviceName=vless-grpc#%40getmyvpn
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443?security=reality&encryption=none&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=zsat.eu-cdn294.com&sid=8fbdc8d37cc76852#%40getmyvpn
+vless://ec56857d-5b0a-446b-a2b4-37b222ae7ab3@185.91.54.67:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=El1z7MdnRwR9Dc7VztJ0xaUXRMukU9SGhH-oPVB9-S0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=id.x5.ru&sid=377645738e782155#%40getmyvpn
+trojan://UX82473651@strong-haddock.rooster465.autos:443?security=tls&sni=strong-haddock.rooster465.autos#%40getmyvpn
