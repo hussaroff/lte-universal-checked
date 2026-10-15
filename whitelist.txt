@@ -5,38 +5,17 @@
 # SPECIAL FOR TUNNEL APP!
 # https://github.com/hussaroff/tunnel
 #
-# UPLOADED: 2026-10-15 12:45:03 UTC
-# STATS: 33 NODES / 62 SOURCES
-vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?security=reality&encryption=none&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&type=grpc&sni=m.vk.com&sid=a1b2c3d4&fp=firefox#%40getmyvpn
-vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443/?type=grpc&encryption=none&flow=&sni=m.vk.com&security=reality&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&sid=a1b2c3d4&fp=firefox#%40getmyvpn
-vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&fp=firefox&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#%40getmyvpn
-vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?encryption=none&fp=chrome&mode=gun&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&security=reality&sid=a1b2c3d4&sni=m.vk.com&type=grpc#%40getmyvpn
+# UPLOADED: 2026-10-15 16:19:30 UTC
+# STATS: 12 NODES / 62 SOURCES
 vless://8822fe1c-7a83-49c0-af96-c2027cb6ddd5@82.202.179.107:12443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6RMior0_TlChA0R_T8yXvjrrpb_nUiS50uRJrLqFeWM&security=reality&sid=780f5e&sni=smartcaptcha.yandexcloud.net&type=raw#%40getmyvpn
 vless://8822fe1c-7a83-49c0-af96-c2027cb6ddd5@82.202.179.107:12443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6RMior0_TlChA0R_T8yXvjrrpb_nUiS50uRJrLqFeWM&security=reality&sid=780f5e&sni=smartcaptcha.yandexcloud.net&type=raw#%40getmyvpn
 vless://8822fe1c-7a83-49c0-af96-c2027cb6ddd5@82.202.179.107:12443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=6RMior0_TlChA0R_T8yXvjrrpb_nUiS50uRJrLqFeWM&security=reality&sid=780f5e&sni=smartcaptcha.yandexcloud.net&type=raw#%40getmyvpn
-vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?type=grpc&security=reality&fp=firefox&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&sid=a1b2c3d4&sni=m.vk.com#%40getmyvpn
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?type=tcp&security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=tcpswed1.figurapn.ru#%40getmyvpn
-ss://YWVzLTI1Ni1nY206RXdVaE94ZW1uUHFhVXZKZ3E0Uzh1Zw@185.227.174.29:8389?#%40getmyvpn
-vless://aa923621-7ac0-482b-9ae8-e5dbb2ecae26@185.253.96.117:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=KvA_7sxZDOMVLEvh64rAKk8jn5XiC-zV47zJIqny2nY&sid=fbc37648292d5393&sni=www.datadoghq.com#%40getmyvpn
-vless://5d7e07ba-f460-4638-af79-bbcde67fcb6b@185.236.228.183:2053?type=grpc&security=reality&fp=random&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&sni=www.intel.com&serviceName=grpc#%40getmyvpn
+vless://c5b5ef33-819e-4972-9a5a-4ad91f38507f@91.240.87.166:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nkpZyXHfG7nhEh1vjBjEDV-Tn7UhHEb5iN9iA8gc9VE&sid=c31188450fe50718&sni=www.vk.com#%40getmyvpn
 vless://8822fe1c-7a83-49c0-af96-c2027cb6ddd5@82.202.179.107:12443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6RMior0_TlChA0R_T8yXvjrrpb_nUiS50uRJrLqFeWM&sid=780f5e&sni=smartcaptcha.yandexcloud.net#%40getmyvpn
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.31.242.61:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=random&pbk=7mRrVzTchVLWWBru5fCgTvtdkL7lVJ_qRj9HW8Rd8X0&sid=0da7e14db353e7d0&sni=est.nztvpn.com#%40getmyvpn
-vless://aa923621-7ac0-482b-9ae8-e5dbb2ecae26@185.253.96.117:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=KvA_7sxZDOMVLEvh64rAKk8jn5XiC-zV47zJIqny2nY&sid=fbc37648292d5393&sni=www.datadoghq.com#%40getmyvpn
-vless://8822fe1c-7a83-49c0-af96-c2027cb6ddd5@82.202.179.107:12443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6RMior0_TlChA0R_T8yXvjrrpb_nUiS50uRJrLqFeWM&sid=780f5e&sni=smartcaptcha.yandexcloud.net#%40getmyvpn
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.31.242.61:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=7mRrVzTchVLWWBru5fCgTvtdkL7lVJ_qRj9HW8Rd8X0&sid=0da7e14db353e7d0&sni=est.nztvpn.com&host=/?telegram--marambashi--marambashi--marambashi--marambashi#%40getmyvpn
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.31.242.61:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=7mRrVzTchVLWWBru5fCgTvtdkL7lVJ_qRj9HW8Rd8X0&sid=0da7e14db353e7d0&sni=est.nztvpn.com&host=/?telegram---pirozi_argap---pirozi_argap---pirozi_argap---pirozi_argap#%40getmyvpn
-vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?security=reality&sni=m.vk.com&fp=chrome&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&sid=a1b2c3d4&type=grpc&packetEncoding=xudp&encryption=none#%40getmyvpn
+vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&sid=a3a578ab&sni=www.apple.com#%40getmyvpn
+vless://8822fe1c-7a83-49c0-af96-c2027cb6ddd5@82.202.179.107:12443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6RMior0_TlChA0R_T8yXvjrrpb_nUiS50uRJrLqFeWM&sid=780f5e&sni=smartcaptcha.yandexcloud.net#%40getmyvpn
+trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40getmyvpn
 vless://8822fe1c-7a83-49c0-af96-c2027cb6ddd5@82.202.179.107:12443?security=reality&encryption=none&pbk=6RMior0_TlChA0R_T8yXvjrrpb_nUiS50uRJrLqFeWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=780f5e#%40getmyvpn
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.31.242.61:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=est.nztvpn.com&fp=chrome&pbk=7mRrVzTchVLWWBru5fCgTvtdkL7lVJ_qRj9HW8Rd8X0&sid=0da7e14db353e7d0&type=tcp&headerType=none#%40getmyvpn
-ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ=@185.103.110.66:18280#%40getmyvpn
-vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?security=reality&encryption=none&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&fp=firefox&type=grpc&sni=m.vk.com&sid=a1b2c3d4#%40getmyvpn
-vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?type=grpc&security=reality&encryption=none&sni=m.vk.com&fp=firefox&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&sid=a1b2c3d4&headerType=none&mode=gun#%40getmyvpn
 vless://8822fe1c-7a83-49c0-af96-c2027cb6ddd5@82.202.179.107:12443?type=raw&security=reality&encryption=none&sni=smartcaptcha.yandexcloud.net&fp=random&pbk=6RMior0_TlChA0R_T8yXvjrrpb_nUiS50uRJrLqFeWM&sid=780f5e&flow=xtls-rprx-vision&headerType=none#%40getmyvpn
 vless://8822fe1c-7a83-49c0-af96-c2027cb6ddd5@82.202.179.107:12443?type=raw&security=reality&encryption=none&sni=smartcaptcha.yandexcloud.net&fp=chrome&pbk=6RMior0_TlChA0R_T8yXvjrrpb_nUiS50uRJrLqFeWM&sid=780f5e&flow=xtls-rprx-vision&headerType=none#%40getmyvpn
-vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?security=reality&encryption=none&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=a3a578ab#%40getmyvpn
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpswed1.figurapn.ru&sid=868419504747f6de#%40getmyvpn
-ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTRAMTg1LjEwMy4xMTAuNjY6MTgyODA=#%40getmyvpn
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@185.31.242.61:443?security=reality&encryption=none&pbk=7mRrVzTchVLWWBru5fCgTvtdkL7lVJ_qRj9HW8Rd8X0&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=est.nztvpn.com&sid=0da7e14db353e7d0#%40getmyvpn
 vless://8822fe1c-7a83-49c0-af96-c2027cb6ddd5@82.202.179.107:12443?security=reality&encryption=none&pbk=6RMior0_TlChA0R_T8yXvjrrpb_nUiS50uRJrLqFeWM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=780f5e#%40getmyvpn
-vless://aa923621-7ac0-482b-9ae8-e5dbb2ecae26@185.253.96.117:443?flow=xtls-rprx-vision&fp=firefox&pbk=KvA_7sxZDOMVLEvh64rAKk8jn5XiC-zV47zJIqny2nY&security=reality&sid=fbc37648292d5393&sni=www.datadoghq.com&spx=%2F&type=tcp#%40getmyvpn
-vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@79.174.92.222:443?security=reality&sni=m.vk.com&fp=firefox&pbk=_PYBo3dyZRpGC44vADqcmlBCSeAVh1X8l3mulghVsTI&sid=a1b2c3d4&type=grpc&packetEncoding=xudp&encryption=none#%40getmyvpn
