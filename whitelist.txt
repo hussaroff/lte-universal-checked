@@ -5,29 +5,12 @@
 # SPECIAL FOR TUNNEL APP!
 # https://github.com/hussaroff/tunnel
 #
-# UPLOADED: 2026-10-16 10:03:08 UTC
-# STATS: 24 NODES / 62 SOURCES
-vless://4599572f-bcfa-461e-bc73-d80e1ea65aa6@37.143.15.206:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&security=reality&sid=111111&sni=5post-gate.x5.ru&type=raw#%40getmyvpn
-vless://4599572f-bcfa-461e-bc73-d80e1ea65aa6@37.143.15.206:443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&security=reality&sid=111111&sni=5post-gate.x5.ru&type=raw#%40getmyvpn
-vless://4599572f-bcfa-461e-bc73-d80e1ea65aa6@37.143.15.206:443?encryption=none&flow=xtls-rprx-vision&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&security=reality&sid=111111&sni=5post-gate.x5.ru&type=raw#%40getmyvpn
-vless://4599572f-bcfa-461e-bc73-d80e1ea65aa6@37.143.15.206:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&sni=5post-gate.x5.ru#%40getmyvpn
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?type=tcp&security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=tcpswed1.figurapn.ru#%40getmyvpn
+# UPLOADED: 2026-10-16 13:39:09 UTC
+# STATS: 7 NODES / 62 SOURCES
+vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&sid=a3a578ab&sni=www.apple.com#%40getmyvpn
 ss://YWVzLTI1Ni1nY206RXdVaE94ZW1uUHFhVXZKZ3E0Uzh1Zw@185.227.174.29:8389?#%40getmyvpn
-vless://03218c7c-acd1-45c0-87a1-9cc77101c6b4@mobile-api-12.sova.toys:443?type=grpc&security=reality&fp=chrome&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&sid=70c20a2f5a7d542e&sni=mobile-api-12.sova.toys&mode=gun&serviceName=google.storage.v2.Storage#%40getmyvpn
-vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@82.202.178.132:443?encryption=none&fp=firefox&mode=multi&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&security=reality&serviceName=google.storage.v2.Storage&sid=70c20a2f5a7d542e&sni=mobile-api-12.sova.toys&type=grpc#%40getmyvpn
-vless://05c8eabe-96af-4db2-bb2f-a24fa84344ba@app-ss-48.shopping-spb.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-ss-48.shopping-spb.com&fp=randomized&pbk=Lcx-6dTZVRdY_HR8XDH438e1RldvuwCCLQiB-N0DWmE&sid=ad6ebedaba235e01&allowInsecure=1#%40getmyvpn
 vless://05c8eabe-96af-4db2-bb2f-a24fa84344ba@app-ms-33.ecom-ai-search.com:443?security=reality&encryption=none&pbk=NHvzfpD0Jhc8h1TtYmdTRdd-zoMt6TwOfC5kgORzRFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=assets-ms-33.ecom-ai-search.com&sid=2f67100d7034a510#%40getmyvpn
 vless://05c8eabe-96af-4db2-bb2f-a24fa84344ba@app-ms-33.ecom-ai-search.com:443?security=reality&encryption=none&pbk=NHvzfpD0Jhc8h1TtYmdTRdd-zoMt6TwOfC5kgORzRFQ&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-ms-33.ecom-ai-search.com&sid=2f67100d7034a510#%40getmyvpn
-vless://03218c7c-acd1-45c0-87a1-9cc77101c6b4@mobile-api-12.sova.toys:443?mode=multi&security=reality&encryption=none&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&fp=chrome&type=grpc&serviceName=google.storage.v2.Storage&sni=mobile-api-12.sova.toys&sid=70c20a2f5a7d542e#%40getmyvpn
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&type=tcp&sni=tcpswed1.figurapn.ru&sid=868419504747f6de#%40getmyvpn
-vless://4599572f-bcfa-461e-bc73-d80e1ea65aa6@37.143.15.206:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%40getmyvpn
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?encryption=none&type=tcp&security=reality&sni=tcpswed1.figurapn.ru&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&allowInsecure=1#%40getmyvpn
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&type=tcp&sni=tcpswed1.figurapn.ru&sid=868419504747f6de#%40getmyvpn
-vless://4599572f-bcfa-461e-bc73-d80e1ea65aa6@37.143.15.206:443?type=raw&security=reality&encryption=none&sni=5post-gate.x5.ru&fp=ios&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&flow=xtls-rprx-vision&headerType=none#%40getmyvpn
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?encryption=none&fp=&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=tcpswed1.figurapn.ru&type=tcp#%40getmyvpn
-vless://4599572f-bcfa-461e-bc73-d80e1ea65aa6@37.143.15.206:443?type=raw&security=reality&encryption=none&sni=5post-gate.x5.ru&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&flow=xtls-rprx-vision&headerType=none#%40getmyvpn
-vless://244d9eab-3311-40c7-b47f-4968dc3088a6@88.216.223.66:443?security=reality&encryption=none&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&headerType=none&fp=firefox&type=tcp&sni=tcpswed1.figurapn.ru&sid=868419504747f6de#%40getmyvpn
 ss://YWVzLTI1Ni1nY206RXdVaE94ZW1uUHFhVXZKZ3E0Uzh1Z0AxODUuMjI3LjE3NC4yOTo4Mzg5#%40getmyvpn
 vless://05c8eabe-96af-4db2-bb2f-a24fa84344ba@app-ms-33.ecom-ai-search.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-ms-33.ecom-ai-search.com&fp=randomized&pbk=NHvzfpD0Jhc8h1TtYmdTRdd-zoMt6TwOfC5kgORzRFQ&sid=2f67100d7034a510&allowInsecure=1#%40getmyvpn
-vless://4599572f-bcfa-461e-bc73-d80e1ea65aa6@37.143.15.206:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&security=reality&sid=111111&sni=5post-gate.x5.ru&type=tcp#%40getmyvpn
-vless://03ca8c3f-e777-45b5-a1b1-592094ca99ee@mobile-api-12.sova.toys:443?mode=multi&encryption=none&sid=70c20a2f5a7d542e&security=reality&serviceName=google.storage.v2.Storage&sni=mobile-api-12.sova.toys&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&fp=chrome&type=grpc#%40getmyvpn
+vless://05c8eabe-96af-4db2-bb2f-a24fa84344ba@app-ms-33.ecom-ai-search.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-ms-33.ecom-ai-search.com&fp=chrome&pbk=NHvzfpD0Jhc8h1TtYmdTRdd-zoMt6TwOfC5kgORzRFQ&sid=2f67100d7034a510&allowInsecure=1#%40getmyvpn
