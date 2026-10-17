@@ -5,12 +5,6 @@
 # SPECIAL FOR TUNNEL APP!
 # https://github.com/hussaroff/tunnel
 #
-# UPLOADED: 2026-10-17 07:27:06 UTC
-# STATS: 7 NODES / 62 SOURCES
-ss://YWVzLTI1Ni1nY206RXdVaE94ZW1uUHFhVXZKZ3E0Uzh1Zw@185.227.174.29:8389?#%40getmyvpn
-vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?type=grpc&security=reality&fp=firefox&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=43adea0ec9f97a0a&sni=www.google.com&serviceName=grpc#%40getmyvpn
-ss://YWVzLTI1Ni1nY206RXdVaE94ZW1uUHFhVXZKZ3E0Uzh1Zw==@185.227.174.29:8389#%40getmyvpn
-vless://05c8eabe-96af-4db2-bb2f-a24fa84344ba@app-ms-33.ecom-ai-search.com:443?security=reality&encryption=none&pbk=NHvzfpD0Jhc8h1TtYmdTRdd-zoMt6TwOfC5kgORzRFQ&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=assets-ms-33.ecom-ai-search.com&sid=2f67100d7034a510#%40getmyvpn
-vless://03218c7c-acd1-45c0-87a1-9cc77101c6b4@82.202.178.132:443?encryption=none&security=reality&sni=mobile-api-12.sova.toys&fp=chrome&pbk=1A9loATtqTbKfErpj24clMebWdbmBRDgUIADwtlvtAw&sid=70c20a2f5a7d542e&type=grpc&authority=&serviceName=google.storage.v2.Storage&mode=multi#%40getmyvpn
-ss://YWVzLTI1Ni1nY206RXdVaE94ZW1uUHFhVXZKZ3E0Uzh1Z0AxODUuMjI3LjE3NC4yOTo4Mzg5#%40getmyvpn
-vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=43adea0ec9f97a0a&type=grpc&authority=&serviceName=grpc&mode=gun#%40getmyvpn
+# UPLOADED: 2026-10-17 11:01:13 UTC
+# STATS: 1 NODES / 62 SOURCES
+vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?&security=reality&flow=xtls-rprx-vision&pbk=09XPceP705hC-5sEDXDSLeL2eMOrF-mFISK8JaJ7q2g&sid=09353d6dc5b789&fp=chrome&sni=aws.amazon.com&type=tcp&headerType=none&path=%2F#%40getmyvpn
