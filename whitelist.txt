@@ -5,18 +5,16 @@
 # SPECIAL FOR TUNNEL APP!
 # https://github.com/hussaroff/tunnel
 #
-# UPLOADED: 2026-10-18 08:30:00 UTC
-# STATS: 13 NODES / 62 SOURCES
-vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=chrome#%40getmyvpn
-vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=firefox#%40getmyvpn
-vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=ios#%40getmyvpn
-vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=qq#%40getmyvpn
-vless://c1eabfbe-62ef-46a2-9857-9ad3d69e174a@185.86.145.142:2096?encryption=none&host=apis.heoleti.pro&path=%2Fchxh&security=tls&sni=apis.heoleti.pro&type=xhttp&fp=edge#%40getmyvpn
+# UPLOADED: 2026-10-18 12:07:09 UTC
+# STATS: 11 NODES / 62 SOURCES
 vless://c1eabfbe-62ef-46a2-9857-9ad3d69e174a@185.86.145.142:2096?encryption=none&host=apis.heoleti.pro&path=%2Fchxh&security=tls&sni=apis.heoleti.pro&type=xhttp&fp=firefox#%40getmyvpn
 vless://c1eabfbe-62ef-46a2-9857-9ad3d69e174a@185.86.145.142:2096?encryption=none&host=apis.heoleti.pro&path=%2Fchxh&security=tls&sni=apis.heoleti.pro&type=xhttp&fp=ios#%40getmyvpn
-vless://c1eabfbe-62ef-46a2-9857-9ad3d69e174a@185.86.145.142:2096?encryption=none&host=apis.heoleti.pro&path=%2Fchxh&security=tls&sni=apis.heoleti.pro&type=xhttp&fp=safari#%40getmyvpn
-vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@91.240.87.0:443?encryption=none&fp=edge&mode=gun&pbk=Jde1DJZOlruMw7ZSXiJnz0RY4MoYJ4iV1eQkvIU6Qj0&security=reality&serviceName=EventStreamService&sid=a3c9e1f04b7d2856&sni=magnit.chronoaudit.ru&spx=%2F&type=grpc#%40getmyvpn
-vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@91.240.87.0:443?encryption=none&fp=ios&mode=gun&pbk=Jde1DJZOlruMw7ZSXiJnz0RY4MoYJ4iV1eQkvIU6Qj0&security=reality&serviceName=EventStreamService&sid=a3c9e1f04b7d2856&sni=magnit.chronoaudit.ru&spx=%2F&type=grpc#%40getmyvpn
-vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@91.240.87.0:443?encryption=none&fp=chrome&mode=gun&pbk=Jde1DJZOlruMw7ZSXiJnz0RY4MoYJ4iV1eQkvIU6Qj0&security=reality&serviceName=EventStreamService&sid=a3c9e1f04b7d2856&sni=magnit.chronoaudit.ru&spx=%2F&type=grpc#%40getmyvpn
-vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@91.240.87.0:443?encryption=none&fp=qq&mode=gun&pbk=Jde1DJZOlruMw7ZSXiJnz0RY4MoYJ4iV1eQkvIU6Qj0&security=reality&serviceName=EventStreamService&sid=a3c9e1f04b7d2856&sni=magnit.chronoaudit.ru&spx=%2F&type=grpc#%40getmyvpn
-vless://41a7af38-0bb1-4493-aa8d-634af0c2548b@82.29.36.250:443?&security=reality&flow=xtls-rprx-vision&pbk=09XPceP705hC-5sEDXDSLeL2eMOrF-mFISK8JaJ7q2g&sid=ac3342a709db&fp=chrome&sni=aws.amazon.com&type=tcp&headerType=none&path=%2F#%40getmyvpn
+vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=raw#%40getmyvpn
+vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&fp=ios&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=raw#%40getmyvpn
+vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=raw#%40getmyvpn
+vless://c1eabfbe-62ef-46a2-9857-9ad3d69e174a@185.86.145.142:2096?encryption=none&extra=null&fp=edge&host=apis.heoleti.pro&path=%2Fchxh&security=tls&sni=apis.heoleti.pro&type=xhttp#%40getmyvpn
+vless://c1eabfbe-62ef-46a2-9857-9ad3d69e174a@185.86.145.142:2096?encryption=none&extra=null&fp=firefox&host=apis.heoleti.pro&path=%2Fchxh&security=tls&sni=apis.heoleti.pro&type=xhttp#%40getmyvpn
+vless://c1eabfbe-62ef-46a2-9857-9ad3d69e174a@185.86.145.142:2096?encryption=none&extra=null&fp=ios&host=apis.heoleti.pro&path=%2Fchxh&security=tls&sni=apis.heoleti.pro&type=xhttp#%40getmyvpn
+vless://c1eabfbe-62ef-46a2-9857-9ad3d69e174a@185.86.145.142:2096?encryption=none&extra=null&fp=safari&host=apis.heoleti.pro&path=%2Fchxh&security=tls&sni=apis.heoleti.pro&type=xhttp#%40getmyvpn
+vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=chrome#%40getmyvpn
+vless://320bb8a2-0b37-4d1a-9b7e-615fe6534ecf@178.248.236.45:62443?encryption=none&flow=xtls-rprx-vision&pbk=vqRiLDLgn_0PWMUvELC0C4JD-a2LUoM0iZ6wdvgMBmQ&security=reality&sid=d0cd6a0b1a18092b&sni=rutube.ru&type=tcp&fp=ios#%40getmyvpn
