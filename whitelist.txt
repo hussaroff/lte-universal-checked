@@ -5,13 +5,10 @@
 # SPECIAL FOR TUNNEL APP!
 # https://github.com/hussaroff/tunnel
 #
-# UPLOADED: 2026-10-19 13:13:19 UTC
-# STATS: 8 NODES / 62 SOURCES
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@5.188.117.45:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&sni=ya.ru#%40getmyvpn
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@5.188.117.45:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&sni=ya.ru#%40getmyvpn
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sid=58301280&sni=metrika.yandex.ru#%40getmyvpn
-vless://9ebf4fda-7395-4800-b42f-b2dda649880a@5.188.117.45:443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1#%40getmyvpn
-vless://a346c521-7a7f-452b-9356-a4893feb5982@185.76.241.130:8449?encryption=none&fp=firefox&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&security=reality&serviceName=GunService&sni=github.com&type=grpc#%40getmyvpn
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?security=reality&encryption=none&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=58301280#%40getmyvpn
+# UPLOADED: 2026-10-19 16:51:45 UTC
+# STATS: 5 NODES / 62 SOURCES
+vless://074690f9-cb30-44f5-84e5-f3ce8fc6cf29@app-ss-64.ecom-ai-search.com:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=assets-ss-64.ecom-ai-search.com&pbk=xXMV-UbVMpP75hZoXS_QSaj_DK1O58mrPIrreudQ71o&sid=294cd0660fde9027&allowInsecure=1&fp=firefox#%40getmyvpn
+vless://ccd0671b-a168-4151-8bc2-37dce0c5738c@185.178.208.140:443?alpn=h2&encryption=none&extra=null&fp=edge&host=bakarova-top.ru&mode=packet-up&path=%2Fapi%2Fv2%2Fevents&security=tls&sni=bakarova-top.ru&type=xhttp#%40getmyvpn
+vless://9ebf4fda-7395-4800-b42f-b2dda649880a@5.188.117.45:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&sni=ya.ru#%40getmyvpn
+vless://ad7966f9-7710-47b9-90d9-2f33e539b06a@46.254.17.76:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#%40getmyvpn
 vless://9ebf4fda-7395-4800-b42f-b2dda649880a@5.188.117.45:443?security=reality&encryption=none&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=d2061bb1#%40getmyvpn
-vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?flow=xtls-rprx-vision&fp=chrome&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&security=reality&sid=a3a578ab&sni=www.apple.com&type=tcp#%40getmyvpn
