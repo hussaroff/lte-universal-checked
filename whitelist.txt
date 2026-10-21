@@ -5,19 +5,14 @@
 # SPECIAL FOR TUNNEL APP!
 # https://github.com/hussaroff/tunnel
 #
-# UPLOADED: 2026-10-21 08:09:09 UTC
-# STATS: 14 NODES / 62 SOURCES
-vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&fp=firefox&host=api-maps.yandex.ru&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp#%40getmyvpn
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sid=58301280&sni=metrika.yandex.ru#%40getmyvpn
+# UPLOADED: 2026-10-21 11:43:24 UTC
+# STATS: 9 NODES / 62 SOURCES
+vless://92e135b9-4c04-4e7e-8b28-d8074a202cf8@46.243.235.6:8445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SPok5V2FC3pM6iTP7j2gpPQRqreGx73qvlWG1F2Efy0&security=reality&sni=passport.yandex.ru&type=raw#%40getmyvpn
+vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?type=raw&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sid=58301280&sni=metrika.yandex.ru#%40getmyvpn
 vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sid=58301280&sni=metrika.yandex.ru#%40getmyvpn
 vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sid=58301280&sni=metrika.yandex.ru#%40getmyvpn
-vless://7c86240f-ac0c-4cfe-87c8-fa0dd69b2d25@46.243.142.2:443?alpn=http%2F1.1&encryption=none&fp=edge&host=floweroom.vip&path=%2Fcart%2Fsync%2Fg-jSjxyhq24P&security=tls&sni=floweroom.vip&type=ws#%40getmyvpn
-vless://7c86240f-ac0c-4cfe-87c8-fa0dd69b2d25@46.243.142.2:443?security=tls&sni=floweroom.vip&alpn=http/1.1&fp=edge&type=ws&path=/cart/sync/g-jSjxyhq24P&host=floweroom.vip&packetEncoding=xudp&encryption=none#%40getmyvpn
-vless://7c86240f-ac0c-4cfe-87c8-fa0dd69b2d25@floweroom.vip:443?security=tls&sni=floweroom.vip&alpn=http/1.1&fp=edge&type=ws&path=/cart/sync/g-jSjxyhq24P&host=floweroom.vip&packetEncoding=xudp&encryption=none#%40getmyvpn
 vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@hahahaarmenia.redemshenvpn.site:24694/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=metrika.yandex.ru&fp=firefox&security=reality&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sid=58301280#%40getmyvpn
 vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?security=reality&encryption=none&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=58301280#%40getmyvpn
-vless://22ae3f9a-574a-45c5-895e-c16c1702d601@88.216.63.75:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tEjpJHMrZU8Lx9935ubHem8HoKTx636RBiG3Cnwx8mM&security=reality&sid=11a4389e0f&sni=ga2gqv6u8.dendiboss.org&type=tcp#%40getmyvpn
 vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&security=reality&sid=58301280&sni=metrika.yandex.ru&type=tcp#%40getmyvpn
-vless://3b1fa839-2cb9-4511-9711-08800450aea3@88.216.254.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6qbnUXper_wImNs0YVUh93oCcnAojWAnLBRW7hxvslw&security=reality&sid=9a264653&sni=subscribe.betust.net&type=tcp#%40getmyvpn
 vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?security=reality&encryption=none&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=58301280#%40getmyvpn
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.230.44.200:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%40getmyvpn
