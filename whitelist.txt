@@ -5,34 +5,30 @@
 # SPECIAL FOR TUNNEL APP!
 # https://github.com/hussaroff/tunnel
 #
-# UPLOADED: 2026-10-22 12:41:11 UTC
-# STATS: 30 NODES / 62 SOURCES
-vless://1bb2af63-4472-44ed-9c70-8f316258b68b@62.152.58.90:443?encryption=none&security=reality&sni=360.yandex.ru&pbk=JBKJlzuJH1YzDHAoz28wEKbzWTGpDpKjgtSq0oT0a0k&sid=27e53bbcab7593d7&type=grpc&serviceName=&fp=random#%40getmyvpn
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sid=58301280&sni=metrika.yandex.ru#%40getmyvpn
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sid=58301280&sni=metrika.yandex.ru#%40getmyvpn
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.254.17.88:30065?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&sni=a3.eosapp.net#%40getmyvpn
-vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.254.17.88:30065?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&sni=a3.eosapp.net#%40getmyvpn
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sid=58301280&sni=metrika.yandex.ru#%40getmyvpn
+# UPLOADED: 2026-10-22 16:17:34 UTC
+# STATS: 26 NODES / 62 SOURCES
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.254.17.88:30065?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&security=reality&sni=a3.eosapp.net&type=raw#%40getmyvpn
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.254.17.88:30065?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&sni=a3.eosapp.net#%40getmyvpn
 vless://3b1fa839-2cb9-4511-9711-08800450aea3@subscribe.betust.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6qbnUXper_wImNs0YVUh93oCcnAojWAnLBRW7hxvslw&sid=9a264653&sni=subscribe.betust.net#%40getmyvpn
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@185.58.115.62:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&sni=se2.gderevievsvideos.fyi#%40getmyvpn
+vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@185.105.108.176:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=U9O1sbuPwoTowF3Ka7CIgUZlRjokulxSwsYohEGCLA8&sid=0d87fec579&sni=www.google.co.uk#%40getmyvpn
 vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@lt.3apes.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&sni=lt.3apes.online#%40getmyvpn
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999?#%40getmyvpn
+vless://3b1fa839-2cb9-4511-9711-08800450aea3@88.216.254.22:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6qbnUXper_wImNs0YVUh93oCcnAojWAnLBRW7hxvslw&sid=9a264653&sni=subscribe.betust.net#%40getmyvpn
 vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@lites.3apes.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&sni=lites.3apes.online#%40getmyvpn
 vless://3b1fa839-2cb9-4511-9711-08800450aea3@88.216.254.22:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6qbnUXper_wImNs0YVUh93oCcnAojWAnLBRW7hxvslw&sid=9a264653&sni=subscribe.betust.net#%40getmyvpn
-vless://5ad13ef8-ced8-43b5-9d8c-f046a3ce9ddc@185.103.100.211:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=sRmbdpwZ5gtUVEu1BMXE71DRHDWhBLCoLh6QiFazm2U&sid=1b2a3f&sni=msk2e.g-magnum.icu#%40getmyvpn
-vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@lite.3apes.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&sni=lite.3apes.online#%40getmyvpn
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@hahahaarmenia.redemshenvpn.site:24694/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=metrika.yandex.ru&fp=firefox&security=reality&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sid=58301280#%40getmyvpn
+vless://928a3079-7c20-40cc-9c92-e878ba959dcd@82.202.182.41:2443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=7VEbBMpg2DyUHU53a76muNrCES-g12FyRUvThr4lvy4&sid=b208&sni=smartcaptcha.yandexcloud.net#%40getmyvpn
+trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40getmyvpn
 vless://3b1fa839-2cb9-4511-9711-08800450aea3@88.216.254.22:443?flow=xtls-rprx-vision&pbk=6qbnUXper_wImNs0YVUh93oCcnAojWAnLBRW7hxvslw&security=reality&sid=9a264653&sni=subscribe.betust.net&type=raw&fp=chrome&encryption=none#%40getmyvpn
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@hahahaarmenia.redemshenvpn.site:24694?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sni=metrika.yandex.ru&fp=firefox&sid=58301280#%40getmyvpn
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?security=reality&encryption=none&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=58301280#%40getmyvpn
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@91.245.225.69:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%40getmyvpn
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&security=reality&sid=58301280&sni=metrika.yandex.ru&type=tcp#%40getmyvpn
+vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&sid=a3a578ab&sni=www.apple.com#%40getmyvpn
 vless://928a3079-7c20-40cc-9c92-e878ba959dcd@82.202.182.41:2443?security=reality&encryption=none&pbk=7VEbBMpg2DyUHU53a76muNrCES-g12FyRUvThr4lvy4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=b208#%40getmyvpn
 vless://9c794bb7-54fe-4acd-844a-a26209af36c3@185.58.115.62:443?security=reality&encryption=none&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=se2.gderevievsvideos.fyi&sid=7271129440ade8fa#%40getmyvpn
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?security=reality&encryption=none&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=58301280#%40getmyvpn
 vless://3b1fa839-2cb9-4511-9711-08800450aea3@subscribe.betust.net:443?security=reality&encryption=none&pbk=6qbnUXper_wImNs0YVUh93oCcnAojWAnLBRW7hxvslw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=subscribe.betust.net&sid=9a264653#%40getmyvpn
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.230.44.200:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%40getmyvpn
 vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@46.254.17.88:30065?type=raw&security=reality&encryption=none&sni=a3.eosapp.net&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&flow=xtls-rprx-vision&headerType=none#%40getmyvpn
 vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@185.105.108.176:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.co.uk&fp=firefox&pbk=U9O1sbuPwoTowF3Ka7CIgUZlRjokulxSwsYohEGCLA8&sid=0d87fec579&flow=xtls-rprx-vision#%40getmyvpn
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@88.218.92.41:24694?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=kaPztgo_2b2CKxytGWXzn6EauyNKr6Ho8xerGpSS-SQ&sni=metrika.yandex.ru&sid=58301280#%40getmyvpn
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@185.230.44.140:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%40getmyvpn
+vless://5ad13ef8-ced8-43b5-9d8c-f046a3ce9ddc@185.103.100.211:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=sRmbdpwZ5gtUVEu1BMXE71DRHDWhBLCoLh6QiFazm2U&sni=msk2e.g-magnum.icu&sid=1b2a3f#%40getmyvpn
 vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@lite.3apes.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lite.3apes.online&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&fp=chrome#%40getmyvpn
 vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@lites.3apes.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=lites.3apes.online&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&fp=chrome#%40getmyvpn
 vless://9c794bb7-54fe-4acd-844a-a26209af36c3@185.58.115.62:443?security=reality&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&fp=firefox&type=raw&flow=xtls-rprx-vision&sni=se2.gderevievsvideos.fyi&sid=7271129440ade8fa&encryption=none#%40getmyvpn
