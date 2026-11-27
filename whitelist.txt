@@ -5,47 +5,25 @@
 # SPECIAL FOR TUNNEL APP!
 # https://github.com/hussaroff/tunnel
 #
-# UPLOADED: 2026-11-27 08:08:46 UTC
-# STATS: 42 NODES / 62 SOURCES
+# UPLOADED: 2026-11-27 11:49:19 UTC
+# STATS: 20 NODES / 62 SOURCES
 vless://37af0181-5598-4aad-a040-d926bcb65757@185.22.234.129:443?alpn=http%2F1.1&encryption=none&fp=chrome&path=%2Fuseraction%2Fcollect%2F8a64b355ef0c%2F&security=tls&sni=smartcdn.top&type=ws#%40getmyvpn
-vless://37af0181-5598-4aad-a040-d926bcb65757@185.22.234.129:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=smartcdn.top&path=%2Fuseraction%2Fcollect%2F8a64b355ef0c%2F&security=tls&sni=smartcdn.top&type=ws#%40getmyvpn
-vless://f4b08bf1-d9bd-4755-aa88-ba922282c608@84.201.130.151:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FmH06hSx9EeWD2rSoIDxr_LT0kuspuA3CnWBAOciZhE&security=reality&sid=9dcf31a09fe98e19&sni=ruforeign3.richhoodfoc.com&type=raw#%40getmyvpn
+vless://37af0181-5598-4aad-a040-d926bcb65757@185.22.234.129:443?alpn=http%2F1.1&encryption=none&fp=safari&path=%2Fuseraction%2Fcollect%2F8a64b355ef0c%2F&security=tls&sni=smartcdn.top&type=ws#%40getmyvpn
 vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&security=reality&sid=d05a120d3506d2cc&sni=144.hexdey.com&type=raw#%40getmyvpn
 vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&security=reality&sid=d05a120d3506d2cc&sni=144.hexdey.com&type=raw#%40getmyvpn
-vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&sid=d05a120d3506d2cc&sni=144.hexdey.com#%40getmyvpn
 vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&sid=d05a120d3506d2cc&sni=144.hexdey.com#%40getmyvpn
-trojan://cWM5aWtWR9@ru-1.krugvpn.me:8443?type=tcp&security=tls&fp=chrome&sni=ru-1.krugvpn.me&alpn=h2#%40getmyvpn
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999?#%40getmyvpn
-trojan://cWM5aWtWR9@ru-1.krugvpn.me:2095?type=tcp&security=tls&fp=chrome&sni=ru-1.krugvpn.me&alpn=h2#%40getmyvpn
 vless://2098ca45-e61c-0019-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&sni=se-sto1.connect.accessboy.com#%40getmyvpn
+vless://639b131f-d0f3-460c-aa17-423047f8a5df@185.86.147.80:5443?type=xhttp&security=reality&fp=firefox&pbk=uR0Y9XXnLCHMDvBV99JPvY1l-ftxzjZ8iRLc04SKyw4&sid=0123456789abcdef&sni=keshyou.mcufa.pro&path=/api/v1/edge&host=keshyou.mcufa.pro&mode=stream-one#%40getmyvpn
 vless://2098ca45-e61c-0011-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&sni=se-sto1.connect.accessboy.com#%40getmyvpn
 vless://2098ca45-e61c-0021-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&sni=se-sto1.connect.accessboy.com#%40getmyvpn
-trojan://cWM5aWtWR9@ru-1.krugvpn.me:443?type=tcp&security=tls&fp=chrome&sni=ru-1.krugvpn.me&alpn=h2#%40getmyvpn
-trojan://cWM5aWtWR9@ru-1.krugvpn.me:2097?type=tcp&security=tls&fp=chrome&sni=ru-1.krugvpn.me&alpn=h2#%40getmyvpn
-vless://2098ca45-e61c-0013-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&sni=se-sto1.connect.accessboy.com#%40getmyvpn
-vless://2098ca45-e61c-000f-ad7d-8badb6b154f4@88.216.72.171:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&sni=se-sto1.connect.accessboy.com#%40getmyvpn
 vmess://eyJhZGQiOiIxODUuMTc3LjIyOS45NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJAZ2V0bXl2cG4iLCJzY3kiOiJhdXRvIiwic25pIjoieG1maGxweS5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.9:19999#%40getmyvpn
-vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?flow=xtls-rprx-vision&security=reality&sni=144.hexdey.com&fp=firefox&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&sid=d05a120d3506d2cc#%40getmyvpn
-vmess://eyJhZGQiOiIxODUuMTc3LjIyOS45NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjEyNzAiLCJwcyI6IkBnZXRteXZwbiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWZobHB5LmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.18:19999#%40getmyvpn
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999#%40getmyvpn
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1AMTg1LjIxNS4xMzIuMTg6MTk5OTk=#%40getmyvpn
-vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=144.hexdey.com&fp=firefox&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&sid=d05a120d3506d2cc&type=tcp&headerType=none#%40getmyvpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeVdJeTZwYWlGVVg@38.99.82.34:443#%40getmyvpn
-vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?security=reality&encryption=none&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&headerType=none&fp=chrome&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&flow=xtls-rprx-vision&sni=144.hexdey.com&sid=d05a120d3506d2cc#%40getmyvpn
+vless://6bd1d88f-0a26-4d21-b325-15d85120b883@185.178.208.167:443?encryption=none&fp=safari&path=%2Fapi%2Fv2%2Fclient%2Fsession%2Fconnect&security=tls&sni=sw-api.telemetryapi.org&type=ws#%40getmyvpn
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@185.76.241.241:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SiwxBWpYrdcS70DDnr0yBrTgpJY-MiqKiOs3_yjK1Cc&security=reality&sid=5b555442d5975d6b&sni=ru1.japancase.site&type=tcp#%40getmyvpn
 vless://639b131f-d0f3-460c-aa17-423047f8a5df@185.86.147.80:9445?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%40getmyvpn
 vless://639b131f-d0f3-460c-aa17-423047f8a5df@185.86.147.80:9444?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%40getmyvpn
-vless://639b131f-d0f3-460c-aa17-423047f8a5df@185.86.147.80:9446?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%40getmyvpn
 vmess://eyJ2IjoiMiIsInBzIjoiQGdldG15dnBuIiwiYWRkIjoiMTg1LjE3Ny4yMjkuOTUiLCJwb3J0IjoiMTI3MCIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwic25pIjoieG1maGxweS5jb20iLCJob3N0IjoiIiwicGF0aCI6IiIsImFscG4iOiIifQ
-vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&sni=144.hexdey.com&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&sid=d05a120d3506d2cc#%40getmyvpn
-vless://639b131f-d0f3-460c-aa17-423047f8a5df@185.86.147.80:9441?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%40getmyvpn
 vless://669b15b9-a618-47a6-ab0b-6210767ba6fd@185.66.68.201:8080?security=none&type=xhttp&path=%2F&packetEncoding=xudp&mode=auto&encryption=none#%40getmyvpn
-vless://639b131f-d0f3-460c-aa17-423047f8a5df@185.86.147.80:9443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%40getmyvpn
+vless://37af0181-5598-4aad-a040-d926bcb65757@smartcdn.top:443?encryption=none&type=ws&security=tls&sni=smartcdn.top&alpn=http%2F1.1&path=%2Fuseraction%2Fcollect%2F8a64b355ef0c%2F&fp=chrome#%40getmyvpn
 vless://639b131f-d0f3-460c-aa17-423047f8a5df@185.86.147.80:9442?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=keshyou.mcufa.pro&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&fp=firefox#%40getmyvpn
 vless://639b131f-d0f3-460c-aa17-423047f8a5df@185.86.147.80:5443?encryption=none&type=xhttp&security=reality&sni=keshyou.mcufa.pro&pbk=uR0Y9XXnLCHMDvBV99JPvY1l-ftxzjZ8iRLc04SKyw4&sid=0123456789abcdef&fp=firefox&path=/api/v1/edge&host=keshyou.mcufa.pro&mode=stream-one#%40getmyvpn
-vless://a71d6c6d-c95e-4ec1-a892-22e21733bf09@178.248.236.229:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&path=/&pbk=_3mkK8SY6YVqws73SUVPKL77tzxDVNUt4ag9J9ec-D0&security=reality&sid=d05a120d3506d2cc&sni=144.hexdey.com&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp#%40getmyvpn
-vless://37af0181-5598-4aad-a040-d926bcb65757@185.22.234.129:443?alpn=http/1.1&encryption=none&fp=chrome&host=smartcdn.top&path=/useraction/collect/8a64b355ef0c/&security=tls&sni=smartcdn.top&type=ws#%40getmyvpn
 vmess://eyJhZGQiOiIxODUuMTc3LjIyOS45NSIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6InhtZmhscHkuY29tIiwiaWQiOiI1YzA0MGYxZC00NWRiLTQzYmQtOGQ0Ni1lNDk1MGU0MzM3MzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjEyNzAsInBzIjoiQGdldG15dnBuIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6bnVsbCwidiI6bnVsbH0
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@ru1.japancase.site:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SiwxBWpYrdcS70DDnr0yBrTgpJY-MiqKiOs3_yjK1Cc&security=reality&sid=5b555442d5975d6b&sni=ru1.japancase.site&type=tcp#%40getmyvpn
